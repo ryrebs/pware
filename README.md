@@ -1,8 +1,8 @@
-# Pware - personalware.
+# Pware
 
-App for personal use.
+### Personalware - App for personal use.
 
-# Debian dependencies
+Debian dependencies
 
 - libwebkit2gtk-4.0-dev
 
